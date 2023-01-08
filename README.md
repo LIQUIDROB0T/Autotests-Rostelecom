@@ -23,5 +23,5 @@
 3) Запуск теста:
 
     ```bash
-    python -m pytest -v --driver Chrome --driver-path ~/chrome tests/*.py
+    python -m pytest -v --driver Chrome --driver-path ~/driver.exe tests/.py
     ```
