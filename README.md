@@ -1,6 +1,8 @@
 Описание
 --------
-[Документация](https://docs.google.com/spreadsheets/d/1_y5dEBcIX9OW30eGUw-xQoXByDqCuTOWCVuwG2hnmmM/edit?usp=sharing) содержит
+Данный репозиторий содержит автотесты тестирования формы авторизации на странице [Ростелеком](https://b2c.passport.rt.ru)
+
+[Документация](https://docs.google.com/spreadsheets/d/1_y5dEBcIX9OW30eGUw-xQoXByDqCuTOWCVuwG2hnmmM/edit?usp=sharing) содержит:
 * Чек-лист тестирования требований
 * Чек-лист тестирования атрибутивного состава форм авторизации, регистрации, восстановления пароля
 * Тест-кейсы тестирования формы авторизации
