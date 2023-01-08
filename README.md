@@ -15,7 +15,7 @@
 1) Установить необходимые библиотеки:
 
     ```bash
-    pip3 install -r requirements
+    pip install -r requirements.txt
     ```
 
 2) Скачать Selenium WebDriver с https://chromedriver.chromium.org/downloads (выбрать версию подходящую под ваш браузер)
