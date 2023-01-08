@@ -23,5 +23,5 @@
 3) Запуск теста:
 
     ```bash
-    python -m pytest -v --driver Chrome --driver-path ~(путь до драйвера)/driver.exe tests/(название вашего теста).py
+    python -m pytest -v --driver Chrome --driver-path ~путь/driver.exe tests/ваштест.py
     ```
